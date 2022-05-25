@@ -4,6 +4,7 @@ Intro
 Intro to computer science
 
 **What is computer science?**
+
 Computer Science
     Fundamentally, Computer Science is *problem solving* 
     It is a representation of ideas
